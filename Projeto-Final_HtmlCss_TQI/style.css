@@ -8,7 +8,7 @@ body{
     color: #ffffffff;
     font-family: 'amatic sc', sans-serif;
 }
-/* Links */
+
 
 /* HEADER */
 
@@ -73,7 +73,7 @@ a:hover{
 }
 
 
-/* MENU HAMBURGUER */
+/* MENU QUE VIRA O X */
 
 .checkbox-container{
     display: flex;
