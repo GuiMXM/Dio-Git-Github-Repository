@@ -1,5 +1,0 @@
-const employee = {
-    code: 10,
-    name: 'João'
-};
-console.log("The employee's name is:"+ employee.name + "and his code is:" + employee.code + ".")
